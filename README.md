@@ -1,0 +1,3 @@
+Repository for solved problems included in SCoRE videos.
+
+SCoRE (Self-study Course on Reaction Engineering) features activities where the students solve reaction engineering problems. It also will include a practice assignment for each class and additional solved problems that students can use for additional practice. This project involves the creation of those problems and the formulation of their solution.
